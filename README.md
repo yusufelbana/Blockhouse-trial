@@ -3,7 +3,7 @@
 ## Clone the main repository:
 git clone --recurse-submodules https://github.com/yusufelbana/Blockhouse-trial.git
 
-## From the root directory:
+## From your cwd directory:
 
 ### Web-App:
 cd Blockhouse-trial/web-app && npm install && npm run dev
